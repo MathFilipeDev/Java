@@ -8,9 +8,9 @@ public class Par {
         System.out.println("Digite um número: ");
         int num = sc.nextInt();
         if (num % 2 == 0) {
-            System.out.println("O número escolhido é par!");
+            System.out.println("O número escolhido é PAR!");
         } else {
-            System.out.println("O número escolhido é Ímpar");
+            System.out.println("O número escolhido é ÍMPAR");
         }
 
         sc.close();
